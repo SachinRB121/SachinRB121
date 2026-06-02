@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Sachin Bagul — Data Engineer
 
-<!--
-**SachinRB121/SachinRB121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Building scalable data pipelines & ETL workflows
+📍 Pune, India | Open to DE roles (India + Abroad)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+|       Category         |         Tools        |
+|------------------------|----------------------|
+| Pipeline Orchestration | Apache Airflow       |
+| Data Warehousing       | Snowflake (learning) |
+| Cloud                  | AWS (S3, EC2)        |
+| Languages              | Python, SQL          |
+| Transformation         | dbt (learning)       |
+| Visualization          | Power BI, Tableau    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Completing Data Engineering Job-Oriented Program
+- Building end-to-end pipeline projects
+- Target: AWS Data Engineer Certification (DEA-C01)
+
+## 📂 Featured DE Projects
+(will add as you build them)
